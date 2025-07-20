@@ -4,7 +4,7 @@ layout: post
 
 > 写在前面：昨天有人给我介绍相亲对象，这张图便是其小红书的置顶动态。
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/46d28565-308d-42eb-9205-94582172da7e/deploy-status)](https://app.netlify.com/projects/piedness/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78db4cc0-09b5-4a1a-bf05-1657862fb23f/deploy-status)](https://app.netlify.com/projects/piedness/deploys)
 
 人总是处于一种奇怪的自我审视心理，一旦别人开出一堆条件，也不管合不合理就立马想把它一条条跟自己比对一下，直至破防或者沾沾自喜才舍得离开。
 
