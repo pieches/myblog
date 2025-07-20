@@ -4,8 +4,9 @@ layout: post
 
 > 写在前面：昨天有人给我介绍相亲对象，这张图便是其小红书的置顶动态。
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/78db4cc0-09b5-4a1a-bf05-1657862fb23f/deploy-status)](https://app.netlify.com/projects/piedness/deploys)
-
+<div align=center>
+	<img src="https://p.sda1.dev/25/fe081850500749df358d10b8afcdcd31/0573444739EC266E437AE81FBB1147A4.jpg"/>
+</div>
 人总是处于一种奇怪的自我审视心理，一旦别人开出一堆条件，也不管合不合理就立马想把它一条条跟自己比对一下，直至破防或者沾沾自喜才舍得离开。
 
 也许是上顿不接下顿的创伤后遗症在国人脑海中蒙蔽太久，以至于他们的后代即便不曾经历却仍有深刻的烙印，这是我想到的能在两性关系中权衡利益的唯一理由，反映到实际也就是“对方不能有让我一夜返贫的可能性”。
