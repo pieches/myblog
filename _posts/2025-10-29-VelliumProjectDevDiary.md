@@ -22,6 +22,8 @@ TextViewController: half width of ViewController 即：(宽566.5, 高744.0)记�
 
 分页pageSize: (546.5, 704.0)
 
+#### 2025-10-31
+构建设置页面
 
 
 
