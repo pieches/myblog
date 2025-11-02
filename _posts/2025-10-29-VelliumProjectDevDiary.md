@@ -31,8 +31,11 @@ TextViewController: half width of ViewController 即：(宽566.5, 高744.0)记�
 
 设置分为5类
 1. App UI/UX
+
     1.1 颜色模式：亮/暗/跟随系统
+
     1.2 App内字体
+    
 2. 阅读界面 UI/UX
     2.1 文字排版相关
         2.1.1 字体（字形/字重/字号）
@@ -54,6 +57,11 @@ TextViewController: half width of ViewController 即：(宽566.5, 高744.0)记�
     4.1 重置设置项
     4.2 清除书籍数据
 5. 关于
+
+
+#### 2025-11-2
+UI细节
+
 
 
 
