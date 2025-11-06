@@ -59,8 +59,15 @@ TextViewController: half width of ViewController 即：(宽566.5, 高744.0)记�
 5. 关于
 
 
-#### 2025-11-2
-UI细节
+#### 2025-11-6
+UIkit 构建reading UI（分步）：
+
+1. 确定一页显示的面积
+
+2. 确定一段文字占用多大面积
+
+3. 确定一页最多可以显示多少文字（考虑因素有哪些）
+
 
 
 
