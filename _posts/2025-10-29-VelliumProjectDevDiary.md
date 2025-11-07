@@ -30,6 +30,7 @@ TextViewController: half width of ViewController 即：(宽566.5, 高744.0)记�
 请你设计这个app的设置界面，不需要实现具体逻辑功能，只需要实现UI
 
 设置分为5类
+
 1. App UI/UX
 
     1.1 颜色模式：亮/暗/跟随系统
@@ -80,7 +81,7 @@ TextViewController: half width of ViewController 即：(宽566.5, 高744.0)记�
 
 
 
-#### 2025-11-6
+#### 2025-11-06
 UIkit 构建reading UI（分步）：
 
 1. 确定一页显示的面积
@@ -89,6 +90,8 @@ UIkit 构建reading UI（分步）：
 
 3. 确定一页最多可以显示多少文字（考虑因素有哪些）
 
+
+#### 2025-11-07
 
 
 
