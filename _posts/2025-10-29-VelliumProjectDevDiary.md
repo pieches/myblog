@@ -92,7 +92,15 @@ UIkit 构建reading UI（分步）：
 
 
 #### 2025-11-07
+UIkitUnitApp
 
+iPad Mini (7th gen)
+
+Logical Width：744
+
+Logical Height：1133
+
+左右分栏的页面大小：矩形宽: 567.0, 高: 744.0
 
 
 
