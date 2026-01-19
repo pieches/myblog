@@ -125,3 +125,26 @@ Logical Height：1133
 
 #### logic source is important.
 
+#### 2026-01-19
+
+年终总结：
+
+已经实现的功能：
+
+1. epub单文件导入、解析。
+
+2. main UI（四大UI界面：home、lib、reading、settings）。
+
+下一步计划：
+
+1. 完成各部分UI和数据流绑定。
+
+2. 完善reading UI （floating buttons）（uikit/swiftUI）并实现：
+
+    1. 目录显示（含跳转）
+
+    2. 书签（高亮效果、数据绑定并统计）
+
+3. 主题系统
+
+4. 网络部分（复杂）
