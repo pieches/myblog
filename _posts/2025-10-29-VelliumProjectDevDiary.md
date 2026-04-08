@@ -148,3 +148,7 @@ Logical Height：1133
 3. 主题系统
 
 4. 网络部分（复杂）
+
+#### 2026-04-08
+
+readingViewcontroller 推倒重来。
