@@ -17,8 +17,8 @@ project_entries:
     url: https://github.com/piedness/Vellium
     desc: iOS/iPadOS 电子书阅读app 
 
-  - title: macOS extension
-    url: https://github.com/pieches/macOS-extension
+  - title: Minimize
+    url: https://github.com/pieches/Minimize
     desc: PowerToys in macOS 
 
     
